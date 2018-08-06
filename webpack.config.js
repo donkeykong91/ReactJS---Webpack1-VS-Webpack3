@@ -7,23 +7,7 @@ module.exports = {
 
   output: {
 
-
-    path: "dist/assets",
-
     filename: "bundle.js",
-
-    publicPath: "assets"
-
-
-  },
-
-  devServer: {
-
-    inline: true,
-
-    contentBase: "./dist",
-
-    port: 3000
 
   },
 
